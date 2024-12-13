@@ -1,14 +1,36 @@
-<!--
-**AnantVerma-58/AnantVerma-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/AnantVerma-58/">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Deep+Learning+%26+Computer+Vision+Enthusiast;Master's+in+Data+Analytics;Aspiring+Data+Scientist" alt="Typing SVG" />
+</a>
+<br/>
 
-Here are some ideas to get you started:
--->
-I am a data enthusiast currently studying for a Master's in Data Analytics at Christ University, Bangalore. With a background in Computer Science, Mathematics, and Statistics, I enjoy solving real-world problems using machine learning and deep learning techniques. My experience includes working on reinforcement learning, computer vision, and natural language processing through various projects and certifications. I have a passion for automating video games and serve as a coach for a team of digital football bots.
+<!--a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
+</a-->  
+<a href="https://yourwebsite.com/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a> 
+<a href="https://www.linkedin.com/in/anant-kumar-verma/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:anantverma3558@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
+
+<br/>
+<a href="https://github.com/AnantVerma-58">
+    <img src="https://github-stats-alpha.vercel.app/api?username=AnantVerma-58&cc=22272e&tc=37BCF6&ic=fff&bc=0000&show_icons=true&hide=issues,pulls,commits,stars,forks&count_private=true">
+</a>
+
+
+</p>
+
+- 🎓 Pursuing Master's in Data Analytics at Christ University, Bangalore
 - 🔭 Currently working on a model that can play any dodging games
 - 🌱 Currently learning Reinforcement Learning
 - 👯 Looking to collaborate on Computer Vision Project
-- 📫 How to reach me: anantverma3558@gmail.com
+
 
 
 ### 🖥️ My Projects
