@@ -7,7 +7,7 @@
 <!--a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
 </a-->  
-<a href="https://yourwebsite.com/Resume.pdf">
+<a href="https://github.com/AnantVerma-58/AnantVerma-58/blob/main/CV_Anant_Kumar_Verma.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> 
 <a href="https://www.linkedin.com/in/anant-kumar-verma/">
