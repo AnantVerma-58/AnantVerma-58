@@ -7,7 +7,7 @@
 <!--a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
 </a-->  
-<a href="https://anantverma-58.github.io/Personal-Portfolio/">
+<a href="https://anantverma-58.github.io/Portfolio/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fanantverma-58.github.io%2FPersonal-Portfolio%2F&up_message=Site&up_color=firered&down_message=Site&down_color=red&style=flat-square&label=Portfolio&labelColor=red&color=black">
 </a> 
 <a href="https://www.linkedin.com/in/anant-kumar-verma/">
